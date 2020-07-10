@@ -1,0 +1,30 @@
+a.linkz:visited {
+  color: yellow;
+}
+a.linkx:hover {
+ color: lightblue;  
+  font-weight: bold;
+}
+a.linky:active {
+  color: red;
+  font-style: italic;
+}
+.zzz  {
+  color: green;
+  font-size: 20px;
+}
+.topnav {
+  display: flex;
+  flex-wrap: nowrap;
+  justify-content: space-between;
+  background-color: darkblue;
+}
+.currentPage {
+  background-color: #6699cc;
+}
+.nextPage:hover { 
+  background-color: lightblue;
+}
+.search {
+  border:10px solid aqua;
+}
